@@ -43,7 +43,7 @@ F13 & w::Send("{Blind}#^{Right}")
 F13 & d::Send("{Blind}^+{Tab}")
 F13 & f::Send("{Blind}^{Tab}")
 
-; Switch tabs
+; Launch Explorer
 F13 & e::Send("{Blind}#{e}")
 
 ; Next/Back chapters on youtube.com
